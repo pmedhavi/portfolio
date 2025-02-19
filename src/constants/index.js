@@ -14,6 +14,7 @@ export const PROJECTS = [
     description:
       "Created a Google Gemini clone using gemini 2.0 flash model.",
     technologies: ["HTML", "CSS", "ReactJs", "Tailwind", "Javascript"],
+    link: "https://gemini-clone-j5khvqxq6-pmedhavis-projects.vercel.app/"
   },
   
   {
@@ -22,6 +23,7 @@ export const PROJECTS = [
     description:
       "A personal portfolio website showcasing projects, skills, and contact information.",
     technologies: ["HTML", "CSS", "ReactJs", "Tailwind", "Javascript"],
+    link: "https://portfolio-sigma-swart-37.vercel.app/"
   },
   {
     title: "Food Ordering App",
