@@ -23,7 +23,7 @@ export const PROJECTS = [
     description:
       "A personal portfolio website showcasing projects, skills, and contact information.",
     technologies: ["HTML", "CSS", "ReactJs", "Tailwind", "Javascript"],
-    link: "https://portfolio-sigma-swart-37.vercel.app/"
+    link: "https://portfolio-f2s04ljah-pmedhavis-projects.vercel.app/"
   },
   {
     title: "Food Ordering App",
