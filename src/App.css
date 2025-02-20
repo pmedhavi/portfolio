@@ -11,9 +11,9 @@
   .typing {
     overflow: hidden; 
     border-right: 0.15em solid ; 
-    white-space: nowrap; 
+     
     
     letter-spacing: 0.15em; 
-    animation: typing 5.5s steps(30,end), blink-caret 0.95s step-end infinite;
+    animation: typing 5.5s steps(22,end), blink-caret 0.95s step-end infinite;
   }
   
