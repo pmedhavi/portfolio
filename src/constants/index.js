@@ -1,6 +1,6 @@
 import project1 from '../assets/projects/Google-Gemini-API.jpg'
 import project2 from '../assets/projects/project-2.jpg' 
-import project3 from '../assets/projects/food-order.jpg'
+import project3 from '../assets/projects/etch.png'
 
 export const HERO_CONTENT = `I am a passionate front-end developer with a knack for crafting beautiful and responsive sites.I love how there's is always more to learn`;
 
@@ -26,11 +26,12 @@ export const PROJECTS = [
     link: "https://portfolio-plum-pi-75.vercel.app/"
   },
   {
-    title: "Food Ordering App",
+    title: "Etch-a-Sketch",
     image: project3,
     description:
-      "A food ordering app for people to order food online.",
-    technologies: ["HTML", "CSS", "Javascript", "ReactJs", "Tailwind", "Redux"],
+      "An online sketchpad.",
+    technologies: ["HTML", "CSS", "Javascript"],
+    link: "https://pmedhavi.github.io/etch-a-sketch/"
   },
 ];
 
